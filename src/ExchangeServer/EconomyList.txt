@@ -1,0 +1,14 @@
+#List of Businesses for the Stock Exchange
+#Values are listed in cents
+
+Business:
+A.L. Casino
+100000000
+
+Business:
+Unbranded Pillows
+5000000
+
+Business:
+Cobalt Coal
+65000000
